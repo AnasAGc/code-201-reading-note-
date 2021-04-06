@@ -13,4 +13,5 @@ I AM an ambitious and highly motivated Civil Engineer with strong practical and 
 Assiment     |      Links    |
 ------------ | ---------------
    Read01    | [Read01](Read01.md) 
-|  Read02    | [Read02](Read02.md)
+   Read02    | [Read02](Read02.md)
+   Read03    | [Read03](Read03.md)   

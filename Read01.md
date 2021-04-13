@@ -13,4 +13,6 @@
 
 * Escape characters are used to include special characters in your pages such as <, >, and ©
 
+
+
 * The difference between an ID and a class is that an ID can be used to identify one element, whereas a class can be used to identify more than one.

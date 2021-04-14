@@ -21,3 +21,4 @@ Assiment     |      Links           |
    Read07    | [Read07](Read07.md)  |
    Read08    | [Read08](Read08.md)  |
    Read09    | [Read09](Read09.md)  |
+   Read10    | [Read10](Read10.md)  |

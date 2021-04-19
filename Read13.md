@@ -24,7 +24,7 @@ user1= Localstorge.getitem(me );
 console.log (user1);
 // the result will be Anas Abu Ghaliha
 ```
- ## How To Save multidimensional data in Localstorge .
+ ## How To Save Multidimensional Data In Localstorge .
 
  1- we need to convert the to a strain by using JSON Strainify
 
@@ -40,7 +40,7 @@ console.log (user1);
  Localstorge.setitem("student1","strainSTU")
 
  ````
-## How To access multidimensional data in Localstorge .
+## How To Access Multidimensional Data In Localstorge .
 
  we need to convert it back to the same data it was by uing JSON parse
 ```

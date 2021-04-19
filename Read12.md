@@ -127,3 +127,30 @@ var barData = {
 	]
 }
  ```
+
+
+
+# Drawing shapes with canvas
+
+
++ fillRect(x, y, width, height)
+
+Draws a filled rectangle.
+
++ strokeRect(x, y, width, height)
+
+Draws a rectangular outline.
+
++ clearRect(x, y, width, height)
+
+Clears the specified rectangular area, making it fully transparent.
+
+## Colors
+
++ fillStyle = color
+
+ Sets the style used when filling shapes.
+
++ strokeStyle = color
+
+Sets the style for shapes' outline
